@@ -1,0 +1,96 @@
+.roadmap-section {
+  padding: 4rem 2rem;
+  background-color: var(--light-blue-gray);
+}
+
+.roadmap-title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: var(--primary-color);
+  margin-bottom: 4rem;
+}
+
+.roadmap-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  position: relative;
+}
+
+.roadmap-item {
+  display: flex;
+  align-items: flex-start;
+  width: calc(25% - 2rem); /* Adjust width based on number of items */
+  margin-bottom: 2rem;
+  position: relative;
+  padding: 0 1rem;
+}
+
+.roadmap-icon {
+  background-color: var(--secondary-color);
+  color: var(--white);
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  margin-right: 1.5rem;
+  flex-shrink: 0;
+  z-index: 2;
+}
+
+/* Connector Line */
+.roadmap-item:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  top: 30px; /* Align with center of icon */
+  left: 80px; /* Start after icon + margin */
+  right: -30px; /* Extend to next item */
+  height: 2px;
+  background-color: var(--secondary-color);
+  opacity: 0.5;
+  z-index: 1;
+}
+
+.roadmap-content h3 {
+  font-size: 1.3rem;
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.roadmap-content p {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--dark-grey);
+  margin-bottom: 0.3rem;
+}
+
+.roadmap-detail {
+  font-size: 0.9rem;
+  color: var(--secondary-color);
+  font-style: italic;
+}
+
+@media (max-width: 991.98px) {
+  .roadmap-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .roadmap-item {
+    width: 80%;
+    align-items: center; /* Center icon and text */
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+  .roadmap-icon {
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+  .roadmap-item:not(:last-child)::after {
+    display: none; /* Hide horizontal connector */
+  }
+  /* Optional: add vertical connector */
+} 

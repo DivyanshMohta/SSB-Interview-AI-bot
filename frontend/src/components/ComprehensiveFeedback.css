@@ -1,0 +1,312 @@
+/* ComprehensiveFeedback.css - Clean Professional Full-Page Design */
+:root {
+  --primary-color: #3b82f6;
+  --primary-light: #eff6ff;
+  --primary-dark: #2563eb;
+  --text-color: #374151;
+  --gray-color: #6b7280;
+  --light-gray: #e5e7eb;
+  --light-color: #f9fafb;
+  --danger-color: #ef4444;
+  --danger-light: #fee2e2;
+  --success-color: #10b981;
+  --font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+/* Base styles */
+body {
+  font-family: var(--font-family);
+  background-color: #f3f4f6;
+  margin: 0;
+  padding: 0;
+  color: var(--text-color);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* Main container - full page */
+.feedback-container_comp {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #ffffff;
+  position: relative;
+}
+
+/* Header section */
+.feedback-header {
+  color: rgb(0, 0, 0);
+  padding: 3rem 2rem;
+  text-align: center;
+}
+
+.feedback-header h1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin: 0 0 1rem;
+  line-height: 1.2;
+}
+
+.feedback-header p {
+  font-size: 1.125rem;
+  max-width: 800px;
+  margin: 0 auto 1.5rem;
+  opacity: 0.9;
+}
+
+.subtitle-divider {
+  height: 3px;
+  width: 80px;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin: 0 auto;
+  border-radius: 2px;
+}
+
+/* Status checkmark */
+.status-icon {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: var(--success-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 1.25rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+}
+
+/* Analysis section */
+.comprehensive-analysis {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.comprehensive-analysis-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--light-gray);
+}
+
+.comprehensive-analysis-header h2 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: var(--text-color);
+  margin: 0;
+}
+
+/* Feedback content */
+.feedback-content {
+  margin-bottom: 2rem;
+}
+
+/* Feedback section styling */
+.feedback-section {
+  background-color: var(--light-color);
+  padding: 2rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  border: 1px solid var(--light-gray);
+}
+
+.feedback-section h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0 0 1.25rem;
+  color: var(--text-color);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.feedback-section .icon {
+  font-size: 1.25rem;
+  color: var(--primary-color);
+}
+
+.feedback-section p {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.8;
+  white-space: pre-line; /* Preserve line breaks in the feedback text */
+}
+
+/* Break long feedback into more readable chunks */
+.feedback-section p {
+  max-width: 100%;
+}
+
+/* Meta information */
+.feedback-meta {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 1.5rem 0;
+  border-top: 1px solid var(--light-gray);
+  color: var(--gray-color);
+  font-size: 0.9rem;
+}
+
+.feedback-meta-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.feedback-meta-icon {
+  font-size: 1rem;
+}
+
+/* Action buttons */
+.feedback-actions {
+  max-width: 1000px;
+  margin: 0 auto 3rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: 0 2rem;
+}
+
+.btn {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.2s, transform 0.1s;
+  min-width: 180px;
+  text-align: center;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-dark);
+}
+
+.btn-secondary {
+  background-color: white;
+  color: var(--text-color);
+  border: 1px solid var(--light-gray);
+}
+
+.btn-secondary:hover {
+  background-color: var(--light-color);
+}
+
+/* Loading state */
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* min-height: 10vh; */
+  /* background-color: #ffffff; */
+  padding: 2rem;
+}
+
+.loading-container .spinner {
+  width: 50px;
+  height: 50px;
+  border: 4px solid #e2e8f0;
+  border-top-color: var(--primary-color);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-bottom: 1.5rem;
+}
+
+.loading-container p {
+  color: var(--primary-color);
+  font-size: 1.125rem;
+  font-weight: 500;
+}
+
+/* Error state */
+.error-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #ffffff;
+  padding: 2rem;
+  text-align: center;
+}
+
+.error-container h2 {
+  color: var(--danger-color);
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.error-container p {
+  color: var(--text-color);
+  margin-bottom: 2rem;
+  max-width: 500px;
+}
+
+.error-container .btn {
+  min-width: 200px;
+}
+
+/* Animations */
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .feedback-header {
+    padding: 2.5rem 1.5rem;
+  }
+  
+  .feedback-header h1 {
+    font-size: 1.75rem;
+  }
+  
+  .comprehensive-analysis {
+    padding: 1.5rem;
+  }
+  
+  .feedback-section {
+    padding: 1.5rem;
+  }
+  
+  .feedback-meta {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  
+  .feedback-actions {
+    flex-direction: column;
+    width: 100%;
+    padding: 0 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .btn {
+    width: 100%;
+  }
+}
+
+/* Improve text readability - add this if you want to break up long paragraphs */
+@media (min-width: 768px) {
+  .feedback-section p {
+    column-count: 1;
+    column-gap: 2rem;
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "session_id": "session_1744167464",
+  "start_time": "2025-04-09T08:28:32.912627",
+  "responses": [
+    {
+      "question_id": "5",
+      "question_text": "Where do you see yourself in 5 years?",
+      "response_text": "hello hello  I will be  lady people in clear their SSP in your ant",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5497170090675354
+      },
+      "immediate_feedback": "Your enthusiasm is evident in your greeting and this demonstrates a welcoming attitude, an important part of military interaction.",
+      "timestamp": "2025-04-09T08:28:32.912627"
+    },
+    {
+      "question_id": "1",
+      "question_text": "Tell me about yourself.",
+      "response_text": "hello my name is Rahul and I am preparing for my SSB interview",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5625203847885132
+      },
+      "immediate_feedback": "Your introduction is a great start, and it demonstrates your enthusiasm, which is a key strength in responding to any interview scenario.",
+      "timestamp": "2025-04-09T08:29:26.566418"
+    }
+  ]
+}

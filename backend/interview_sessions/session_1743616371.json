@@ -1,0 +1,17 @@
+{
+  "session_id": "session_1743616371",
+  "start_time": "2025-04-02T23:25:08.601226",
+  "responses": [
+    {
+      "question_id": "4",
+      "question_text": "Describe a challenging situation and how you handled it.",
+      "response_text": "hello hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5457190871238708
+      },
+      "immediate_feedback": "Hello candidate,\n\nI appreciate your enthusiasm, and it's true that communication is key to leadership. However, your greeting could benefit from clarity and confidence to ensure an impactful introduction to the Selection Board. \n\nA positive first impression would be to pronounce each element of your greeting individually, enunciating clearly, \"Hello\" - \"Hello\" - \"Good morning\" or \"Good afternoon\" depending on the time of day. This will project confidence and professionalism while still being friendly.\n\nIn addition, you could consider introducing yourself with your name, which empowers you to assert your identity and provides context to the evaluators about your role in this process. An improved introduction could be, \"Hello my name is [Name] and I welcome you all to this SSB interview.\"\n\nBeyond the introduction, it is essential for candidates to display a thorough understanding of military terminologies and exhibit confidence in their responses during the SSB interview. You may consider researching and familiarizing yourself with common terminologies and acronyms that may be used during the interview. This will help you demonstrate a sense of belonging in a military environment and show that you have put effort into preparing for the interview. \n\nRemember, the key to success is often confidence, which stems from proper preparation. Arriving with an understanding of both the evaluation criteria and the role you are interviewing for will help you demonstrate professionalism and inspire confidence. \n\nBest wishes to you today and in your future endeavors!",
+      "timestamp": "2025-04-02T23:25:08.602228"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "session_id": "session_1743616532",
+  "start_time": "2025-04-02T23:26:16.538283",
+  "responses": [
+    {
+      "question_id": "1",
+      "question_text": "Tell me about yourself.",
+      "response_text": "hello my name is  Rajesh and I am Uninor stick SSB  student  studying the university  dreaming of being  able to serve my country",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.3105185031890869
+      },
+      "immediate_feedback": "Rajesh,\n\nI appreciate your enthusiasm and ambition to serve your country, which demonstrates alignment with the core military values we seek in our officers. However, there are some specific areas where you can improve to increase your effectiveness in communicating your credentials and demonstrating your suitability for the role. \n\nFirstly, you displayed an adequate level of communication skills in your introduction. It is important to be clearly audible, sufficiently articulate, and concise when introducing yourself. Ensuring you speak at a steady pace and enunciate your words properly will help convey confidence. Communication is a key military skill and mastering this will help set a solid foundation for future success in a wide variety of scenarios. \n\nSecondly, display a higher level of professionalism in your vocabulary and speech. This is an area that can be improved going forward. Try incorporating relevant military terminology and specific examples of your skillsets, strengths, or areas of interest to demonstrate a deeper understanding of the role and a professional persona. \n\nIn preparation for the SSB interview, it would be beneficial to research the selection criteria and core competencies required for military officers. You can practice incorporating relevant skills and experiences into your responses, allowing you to provide clear examples of your leadership potential, problem-solving abilities, or other applicable strengths. This will help you stand out as a highly prepared and competent candidate. \n\nWith focused preparation and practice, you can refine your communication style and verbalization, while also honing in on the specific skills and experiences that set you up for success. \n\nGood luck with your preparations moving forward!",
+      "timestamp": "2025-04-02T23:26:16.539278"
+    },
+    {
+      "question_id": "8",
+      "question_text": "What is your greatest achievement?",
+      "response_text": "hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5614452958106995
+      },
+      "immediate_feedback": "Your response is too short for meaningful feedback. Please provide a more detailed answer.",
+      "timestamp": "2025-04-02T23:26:47.602601"
+    },
+    {
+      "question_id": "2",
+      "question_text": "Why do you want to join the armed forces?",
+      "response_text": "hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5614452958106995
+      },
+      "immediate_feedback": "Your response is too short for meaningful feedback. Please provide a more detailed answer.",
+      "timestamp": "2025-04-02T23:26:56.679941"
+    },
+    {
+      "question_id": "6",
+      "question_text": "What qualities make a good leader?",
+      "response_text": "hi hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.36448240280151367
+      },
+      "immediate_feedback": "Your response is too short for meaningful feedback. Please provide a more detailed answer.",
+      "timestamp": "2025-04-02T23:27:06.845496"
+    },
+    {
+      "question_id": "7",
+      "question_text": "How do you handle stress and pressure?",
+      "response_text": "hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5614452958106995
+      },
+      "immediate_feedback": "Your response is too short for meaningful feedback. Please provide a more detailed answer.",
+      "timestamp": "2025-04-02T23:27:11.550971"
+    }
+  ]
+}

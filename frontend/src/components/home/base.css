@@ -1,0 +1,76 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #2c3e50; /* Dark Blue-Grey */
+  --secondary-color: #3498db; /* Link Hover Blue */
+  --accent-color: #e74c3c; /* Orange Accent */
+  --button-orange-start: #ff8c42;
+  --button-orange-end: #ff5733;
+  --text-color: #333;
+  --light-gray: #f5f5f5;
+  --light-blue-gray: #eaf0f6; /* Light Blue-Grey Background */
+  --white: #ffffff;
+  --dark-grey: #555;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #a0d8f1, #ffc0cb);
+  color: #333;
+  overflow-x: hidden;
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.section-header h2 {
+  font-size: 2.5rem;
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+.section-header p {
+  font-size: 1.2rem;
+  color: var(--dark-grey);
+}
+
+/* Animations */
+@keyframes fadeInFromTop {
+    0% {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes revealImage {
+    0% {
+        opacity: 0;
+        transform: scale(0.8) rotate(5deg);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1) rotate(0);
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+} 

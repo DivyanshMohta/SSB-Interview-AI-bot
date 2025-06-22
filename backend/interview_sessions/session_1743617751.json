@@ -1,0 +1,61 @@
+{
+  "session_id": "session_1743617751",
+  "start_time": "2025-04-02T23:46:18.784422",
+  "responses": [
+    {
+      "question_id": "3",
+      "question_text": "What are your strengths and weaknesses?",
+      "response_text": "I don't have strength but I have many weeks such as laziness  and procrastination",
+      "sentiment": {
+        "label": "3 stars",
+        "score": 0.39856481552124023
+      },
+      "immediate_feedback": "This is not a strong answer in terms of demonstrating strengths for a military officer. Try to reflect on what skills and strengths you have used to overcome these tendencies in the past.",
+      "timestamp": "2025-04-02T23:46:18.785423"
+    },
+    {
+      "question_id": "7",
+      "question_text": "How do you handle stress and pressure?",
+      "response_text": "you can handle station pressure very very giving an exam but I have had a deadline within 2 days and I had to submit a full project report was 17 pages and their type of able to  marks in that",
+      "sentiment": {
+        "label": "3 stars",
+        "score": 0.40765488147735596
+      },
+      "immediate_feedback": "Your ability to manage station pressure and handle deadlines is impressive.",
+      "timestamp": "2025-04-02T23:46:53.288257"
+    },
+    {
+      "question_id": "4",
+      "question_text": "Describe a challenging situation and how you handled it.",
+      "response_text": "I cannot handle challenge this is very very I run away from them",
+      "sentiment": {
+        "label": "1 star",
+        "score": 0.5569432377815247
+      },
+      "immediate_feedback": "It's understandable that you feel hesitant to take on challenges, especially difficult ones. For military officers, however, tackling and overcoming challenges is a key part of the job.",
+      "timestamp": "2025-04-02T23:47:15.527336"
+    },
+    {
+      "question_id": "9",
+      "question_text": "How do you work in a team?",
+      "response_text": "I do work in a team as being a team player not  completing the task alone I take help of other than computer",
+      "sentiment": {
+        "label": "3 stars",
+        "score": 0.41473111510276794
+      },
+      "immediate_feedback": "Your response indicates that you are aware of the importance of teamwork in military officer roles, and that you specifically recognize the importance of collaborating with others, rather than trying to tackle all tasks alone.",
+      "timestamp": "2025-04-02T23:47:48.943101"
+    },
+    {
+      "question_id": "10",
+      "question_text": "Why should we select you?",
+      "response_text": "hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5614452958106995
+      },
+      "immediate_feedback": "Your response is too short. Please provide a more detailed answer.",
+      "timestamp": "2025-04-02T23:48:20.381710"
+    }
+  ]
+}

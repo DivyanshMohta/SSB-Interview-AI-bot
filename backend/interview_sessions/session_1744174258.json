@@ -1,0 +1,50 @@
+{
+  "session_id": "session_1744174258",
+  "start_time": "2025-04-09T10:21:34.284546",
+  "responses": [
+    {
+      "question_id": "4",
+      "question_text": "Describe a challenging situation and how you handled it.",
+      "response_text": "there has a situation there I have pain in hectagon in which I had to complete a project with in 2 hours  a handle very well and won third prize in  the heaven on",
+      "sentiment": {
+        "label": "3 stars",
+        "score": 0.288379967212677
+      },
+      "immediate_feedback": "Your ability to handle pressure and prioritize efficiently is commendable, as evident in your anecdote about winning a prize after completing a project within a tight deadline.",
+      "timestamp": "2025-04-09T10:21:34.284546"
+    },
+    {
+      "question_id": "6",
+      "question_text": "What qualities make a good leader?",
+      "response_text": "quality such as being the first member and team  handling pressure and helping out without ordering their make a great  leader",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5098704099655151
+      },
+      "immediate_feedback": "Your response indicates an understanding of the positive qualities of good leaders, such as being the first to take action and handle pressure, as well as the importance of being helpful without micromanaging.",
+      "timestamp": "2025-04-09T10:22:35.428804"
+    },
+    {
+      "question_id": "8",
+      "question_text": "What is your greatest achievement?",
+      "response_text": "the greatest achievement is and  third place in a mock interview practice session of an SSB class",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.8942903280258179
+      },
+      "immediate_feedback": "Your choice to discuss your success in a mock interview showcases your enthusiasm and confidence.",
+      "timestamp": "2025-04-09T10:23:01.852857"
+    },
+    {
+      "question_id": "2",
+      "question_text": "Why do you want to join the armed forces?",
+      "response_text": "because I want to serve my nation",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.57240891456604
+      },
+      "immediate_feedback": "Your sentiment is spot on - aspiring to serve your nation is a noble drive, which already demonstrates leadership traits and a sense of duty. This is definitely a strong start to expressing qualities related to a military officer.",
+      "timestamp": "2025-04-09T10:23:22.625154"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "session_id": "session_1744644446",
+  "start_time": "2025-04-14T20:57:41.679723",
+  "responses": [
+    {
+      "question_id": "7",
+      "question_text": "How do you handle stress and pressure?",
+      "response_text": "hello hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5457190871238708
+      },
+      "immediate_feedback": "Your greeting is friendly and inviting.",
+      "timestamp": "2025-04-14T20:57:41.680823"
+    },
+    {
+      "question_id": "2",
+      "question_text": "Why do you want to join the armed forces?",
+      "response_text": "I don't want to",
+      "sentiment": {
+        "label": "1 star",
+        "score": 0.3122057616710663
+      },
+      "immediate_feedback": "Feedback is given in the format requested:",
+      "timestamp": "2025-04-14T20:57:56.367183"
+    },
+    {
+      "question_id": "5",
+      "question_text": "Where do you see yourself in 5 years?",
+      "response_text": "hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5614452958106995
+      },
+      "immediate_feedback": "Your response is too short. Please provide a more detailed answer.",
+      "timestamp": "2025-04-14T20:58:10.064569"
+    },
+    {
+      "question_id": "9",
+      "question_text": "How do you work in a team?",
+      "response_text": "hello hello hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5192745327949524
+      },
+      "immediate_feedback": "Your enthusiastic greeting stands out and creates a positive impression. Officers must be approachable and willing to connect with their colleagues and peers.",
+      "timestamp": "2025-04-14T20:58:23.615228"
+    },
+    {
+      "question_id": "1",
+      "question_text": "Tell me about yourself.",
+      "response_text": "hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5614452958106995
+      },
+      "immediate_feedback": "Your response is too short. Please provide a more detailed answer.",
+      "timestamp": "2025-04-14T20:58:34.872489"
+    }
+  ]
+}

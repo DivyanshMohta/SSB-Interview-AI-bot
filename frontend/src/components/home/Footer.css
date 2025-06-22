@@ -1,0 +1,151 @@
+.footer {
+    background-color: #1e293b;
+    color: #f8fafc;
+    padding: 4rem 2rem 2rem;
+    width: 100%;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+}
+
+.footer-logo {
+    display: flex;
+    flex-direction: column;
+    grid-column: span 2;
+}
+
+.footer-logo img {
+    max-width: 120px;
+    margin-bottom: 1rem;
+}
+
+.footer-logo p {
+    color: #94a3b8;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+    max-width: 90%;
+}
+
+.social-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.social-links a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color: #334155;
+    color: #f8fafc;
+    transition: all 0.3s ease;
+}
+
+.social-links a:hover {
+    background-color: #3b82f6;
+    transform: translateY(-3px);
+}
+
+.footer-section h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 1.2rem;
+    position: relative;
+    padding-bottom: 0.5rem;
+}
+
+.footer-section h3::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 30px;
+    height: 2px;
+    background-color: #3b82f6;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    margin-bottom: 0.75rem;
+}
+
+.footer-links a {
+    color: #94a3b8;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    display: block;
+}
+
+.footer-links a:hover {
+    color: #f8fafc;
+    padding-left: 5px;
+}
+
+.contact-info {
+    list-style: none;
+    padding: 0;
+}
+
+.contact-info li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+    color: #94a3b8;
+}
+
+.contact-info i {
+    margin-right: 10px;
+    color: #3b82f6;
+    width: 20px;
+    text-align: center;
+}
+
+.footer-bottom {
+    margin-top: 3rem;
+    text-align: center;
+    padding-top: 1.5rem;
+    border-top: 1px solid #334155;
+    color: #94a3b8;
+    font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+    .footer-container {
+        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    }
+    
+    .footer-logo {
+        grid-column: 1 / -1;
+    }
+}
+
+@media (max-width: 480px) {
+    .footer {
+        padding: 3rem 1rem 1.5rem;
+    }
+    
+    .footer-container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    
+    .footer-section {
+        border-bottom: 1px solid #334155;
+        padding-bottom: 1.5rem;
+    }
+    
+    .footer-section:last-child {
+        border-bottom: none;
+    }
+} 

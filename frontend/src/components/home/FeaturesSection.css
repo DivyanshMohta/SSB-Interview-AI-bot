@@ -1,0 +1,72 @@
+.features-section {
+  padding: 4rem 2rem;
+}
+
+.features-title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: var(--primary-color);
+  margin-bottom: 3rem;
+}
+
+.feature-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 4rem;
+}
+
+/* Alternate row layout */
+.feature-row:nth-child(odd) .feature-image {
+  order: 1; /* Image comes after text on odd rows */
+}
+
+.feature-text,
+.feature-image {
+  flex: 1;
+  min-width: 300px;
+}
+
+.feature-text {
+  padding-right: 2rem; /* Add spacing */
+}
+
+.feature-row:nth-child(odd) .feature-text {
+  padding-right: 0;
+  padding-left: 2rem; /* Add spacing */
+}
+
+
+.feature-text h3 {
+  font-size: 1.8rem;
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+.feature-text p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: var(--dark-grey);
+}
+
+.feature-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .feature-row:nth-child(odd) .feature-image {
+     order: 0; /* Reset order */
+  }
+  .feature-row {
+     flex-direction: column;
+     text-align: center;
+  }
+  .feature-text,
+  .feature-row:nth-child(odd) .feature-text {
+     padding: 0;
+  }
+} 

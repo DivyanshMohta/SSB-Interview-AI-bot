@@ -1,0 +1,25 @@
+.community-section {
+  padding: 3rem 2rem;
+  background-color: var(--light-gray);
+  text-align: center;
+}
+
+.community-title {
+  font-size: 2.2rem;
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}
+
+.community-subtitle {
+  font-size: 1.3rem;
+  color: var(--secondary-color);
+  margin-bottom: 1.5rem;
+}
+
+.community-description {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: var(--dark-grey);
+  max-width: 800px;
+  margin: 0 auto;
+} 

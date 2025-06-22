@@ -1,0 +1,39 @@
+{
+  "session_id": "session_1744167785",
+  "start_time": "2025-04-09T08:35:26.593370",
+  "responses": [
+    {
+      "question_id": "9",
+      "question_text": "How do you work in a team?",
+      "response_text": "hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5614452958106995
+      },
+      "immediate_feedback": "Your response is too short. Please provide a more detailed answer.",
+      "timestamp": "2025-04-09T08:35:26.593370"
+    },
+    {
+      "question_id": "3",
+      "question_text": "What are your strengths and weaknesses?",
+      "response_text": "include",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.36002397537231445
+      },
+      "immediate_feedback": "Your response is too short. Please provide a more detailed answer.",
+      "timestamp": "2025-04-09T08:37:25.085860"
+    },
+    {
+      "question_id": "6",
+      "question_text": "What qualities make a good leader?",
+      "response_text": "audit is make a good leader such as being able to handle the teams are not just  ordering them around but actually helping them",
+      "sentiment": {
+        "label": "4 stars",
+        "score": 0.526279628276825
+      },
+      "immediate_feedback": "Your understanding of leadership, explained by the willingness to help teams rather than just commanding them, is valuable.",
+      "timestamp": "2025-04-09T08:37:51.408100"
+    }
+  ]
+}

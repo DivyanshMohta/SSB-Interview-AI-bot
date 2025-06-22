@@ -1,0 +1,61 @@
+{
+  "session_id": "session_1743618172",
+  "start_time": "2025-04-02T23:53:18.392080",
+  "responses": [
+    {
+      "question_id": "1",
+      "question_text": "Tell me about yourself.",
+      "response_text": "hello  my name is Ravi and I am and SSB  repairing student at Pune  currently at my second year of preparation for SST",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.49893665313720703
+      },
+      "immediate_feedback": "Your introduction shows you're confident in your SSB preparation. Keep practicing for the SST segment by doing thorough background research on the military, its ranking system, and operational procedures.",
+      "timestamp": "2025-04-02T23:53:18.392080"
+    },
+    {
+      "question_id": "2",
+      "question_text": "Why do you want to join the armed forces?",
+      "response_text": "I want to join harmful to so rupaya Nation",
+      "sentiment": {
+        "label": "1 star",
+        "score": 0.37466156482696533
+      },
+      "immediate_feedback": "\"You have stated your desire to serve your country, which is understandable and relatable! However, your use of slang does not create a professional impression and may be misunderstood, especially for a position that requires clear and effective comm.",
+      "timestamp": "2025-04-02T23:53:39.464045"
+    },
+    {
+      "question_id": "6",
+      "question_text": "What qualities make a good leader?",
+      "response_text": "team leader make him the posting number of the team then  to motivate others and help them when they are in need also act as an guide  for them",
+      "sentiment": {
+        "label": "4 stars",
+        "score": 0.4739837348461151
+      },
+      "immediate_feedback": "Your emphasis on the role of the team leader in providing guidance and support to team members is notable.",
+      "timestamp": "2025-04-02T23:54:14.586965"
+    },
+    {
+      "question_id": "10",
+      "question_text": "Why should we select you?",
+      "response_text": "you should not selecting because I am not our the kind but",
+      "sentiment": {
+        "label": "3 stars",
+        "score": 0.4375731348991394
+      },
+      "immediate_feedback": "The candidate's response appears to be incomplete, but from what is conveyed, it seems they may be afraid of being rejected for not fitting a particular mold.",
+      "timestamp": "2025-04-02T23:54:32.868303"
+    },
+    {
+      "question_id": "4",
+      "question_text": "Describe a challenging situation and how you handled it.",
+      "response_text": "no I don't want to answer the question",
+      "sentiment": {
+        "label": "1 star",
+        "score": 0.5767994523048401
+      },
+      "immediate_feedback": "Your response suggests a potential weakness; it is crucial to keep in mind that the SSB interview is a constructive and collaborative process between the candidate and the interviewer, and maintaining a positive and open demeanor is ideally the norm.",
+      "timestamp": "2025-04-02T23:54:53.051481"
+    }
+  ]
+}

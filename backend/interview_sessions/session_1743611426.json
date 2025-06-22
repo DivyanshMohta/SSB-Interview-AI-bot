@@ -1,0 +1,28 @@
+{
+  "session_id": "session_1743611426",
+  "start_time": "2025-04-02T22:00:40.767100",
+  "responses": [
+    {
+      "question_id": "q1",
+      "question_text": "Describe your leadership qualities",
+      "response_text": "I believe I am a good leader because I always try to set a positive example for my team. I've organized several group activities in college and made sure everyone's voice was heard.",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5796449780464172
+      },
+      "immediate_feedback": "This is an encouraging and supportive comment for the candidate! Let's keep the feedback concise, focused, and constructive for the candidate's improvement. \n\nStrength:\n\nYou've exemplified leadership experience in organizing group activities in college and promoting inclusivity, which is essential for any team. This is a great foundation for a capable leader! \n\nImprovement:\n\nTo enhance further, delve into specific instances where you demonstrated leadership and how you approached challenges entailed in organizing these group activities. This will provide a clearer picture of your leadership style and problem-solving skills. \n\nRemember, the SSB wants to see your depth of leadership experience and how you've matured as a leader over time. Cheers to your future success!",
+      "timestamp": "2025-04-02T22:00:40.767100"
+    },
+    {
+      "question_id": "q2",
+      "question_text": "How do you handle stress in challenging situations?",
+      "response_text": "I handle stress by focusing on the task at hand and breaking it down into manageable steps. I also practice deep breathing and physical exercise to maintain my mental clarity.",
+      "sentiment": {
+        "label": "4 stars",
+        "score": 0.5519236326217651
+      },
+      "immediate_feedback": "Candidate, your response shows:\n\n1. Strength: A resilient mindset is key! You elucidate a commendable approach to navigating stressful situations: breaking the stressful scenario intosteps and focusing on said steps. This approach helps mitigate overwhelm and fosters a honed sense of agency, empowering you to feel in control and manage the pressure effectively. \n\n2. Improvement: Enhance this impactful narrative by highlighting a specific instance where this stress-mitigating approach has bore fruits. Talk about the tangible results or positive impacts you saw employ this strategy. This adds depth and authenticity to your illustration of resilience, giving the reviewer insight into your effective handling of pressure. \n\nacsulation and exhale, Candidate! You've got this!",
+      "timestamp": "2025-04-02T22:00:53.754428"
+    }
+  ]
+}

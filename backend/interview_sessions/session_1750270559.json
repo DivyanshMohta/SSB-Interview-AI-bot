@@ -1,0 +1,61 @@
+{
+  "session_id": "session_1750270559",
+  "start_time": "2025-06-18T23:46:14.196260",
+  "responses": [
+    {
+      "question_id": "4",
+      "question_text": "Describe a challenging situation and how you handled it.",
+      "response_text": "hello hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5457190871238708
+      },
+      "immediate_feedback": "Your greeting is friendly and inviting.  You come across as relaxed and confident, which is great.  Perhaps prepare a couple of backup greetings in case this aligns with the first question asked in the interview.",
+      "timestamp": "2025-06-18T23:46:14.196260"
+    },
+    {
+      "question_id": "2",
+      "question_text": "Why do you want to join the armed forces?",
+      "response_text": "I want to join the arm versus to serve the nation",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.4507997930049896
+      },
+      "immediate_feedback": "Your desire to join the armed forces to serve your country is commendable, and it shows a strong sense of patriotism.",
+      "timestamp": "2025-06-18T23:46:32.233511"
+    },
+    {
+      "question_id": "6",
+      "question_text": "What qualities make a good leader?",
+      "response_text": "punctuality discipline and helping the made makes a good leader",
+      "sentiment": {
+        "label": "4 stars",
+        "score": 0.48976758122444153
+      },
+      "immediate_feedback": "This is very good feedback on leadership qualities!",
+      "timestamp": "2025-06-18T23:47:09.705994"
+    },
+    {
+      "question_id": "1",
+      "question_text": "Tell me about yourself.",
+      "response_text": "my name is Rahul and I am  preparing for armed forces to serve my country",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.4751688539981842
+      },
+      "immediate_feedback": "Your dedication to serving your country is commendable, and it shows your strong sense of patriotism.",
+      "timestamp": "2025-06-18T23:47:30.549908"
+    },
+    {
+      "question_id": "8",
+      "question_text": "What is your greatest achievement?",
+      "response_text": "my greatest achievement is my college degree",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.903809130191803
+      },
+      "immediate_feedback": "Highlighting your college degree as your greatest achievement shows your dedication to self-improvement and education, which can be essential qualities for a military officer.",
+      "timestamp": "2025-06-18T23:47:51.105960"
+    }
+  ]
+}

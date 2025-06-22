@@ -1,0 +1,50 @@
+{
+  "session_id": "session_1744168463",
+  "start_time": "2025-04-09T08:44:38.435270",
+  "responses": [
+    {
+      "question_id": "7",
+      "question_text": "How do you handle stress and pressure?",
+      "response_text": "Do nothing eat Mentos.",
+      "sentiment": {
+        "label": "1 star",
+        "score": 0.6531234383583069
+      },
+      "immediate_feedback": "Your response is concise, but it does not really align with the broader aims of joining the military as an officer.",
+      "timestamp": "2025-04-09T08:44:38.435270"
+    },
+    {
+      "question_id": "1",
+      "question_text": "Tell me about yourself.",
+      "response_text": "Nothing to say.",
+      "sentiment": {
+        "label": "1 star",
+        "score": 0.4719116985797882
+      },
+      "immediate_feedback": "Your response could benefit from providing some additional insight into your outlook on life in the military and your motivations for joining. Remember, the interviewer is looking for candidates who are motivated and excited to serve.",
+      "timestamp": "2025-04-09T08:45:05.606287"
+    },
+    {
+      "question_id": "2",
+      "question_text": "Why do you want to join the armed forces?",
+      "response_text": "2. To serve my country.",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5327790379524231
+      },
+      "immediate_feedback": "Your sentiment is right on target in terms of characteristics that military officers appreciate. It is great that you have a clear motivation for serving in the military in order to give back to your country.",
+      "timestamp": "2025-04-09T08:45:32.790347"
+    },
+    {
+      "question_id": "6",
+      "question_text": "What qualities make a good leader?",
+      "response_text": "Just doing time pass.",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.44491881132125854
+      },
+      "immediate_feedback": "Your response suggests a relaxed attitude and an ability to 'kick back' and enjoy yourself. This is certainly a positive, and something that can help you fit into a team, particularly when tensions are high.",
+      "timestamp": "2025-04-09T08:45:52.419616"
+    }
+  ]
+}

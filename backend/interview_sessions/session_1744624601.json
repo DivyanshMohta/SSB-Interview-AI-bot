@@ -1,0 +1,17 @@
+{
+  "session_id": "session_1744624601",
+  "start_time": "2025-04-14T15:27:06.147089",
+  "responses": [
+    {
+      "question_id": "2",
+      "question_text": "Why do you want to join the armed forces?",
+      "response_text": "hello hello  I want to join the arm forces  to serve my nation",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.6396556496620178
+      },
+      "immediate_feedback": "Your enthusiasm is clear, and your desire to serve your nation is strong.",
+      "timestamp": "2025-04-14T15:27:06.147089"
+    }
+  ]
+}

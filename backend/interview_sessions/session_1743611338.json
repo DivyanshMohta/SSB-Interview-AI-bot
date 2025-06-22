@@ -1,0 +1,28 @@
+{
+  "session_id": "session_1743611338",
+  "start_time": "2025-04-02T21:59:11.764511",
+  "responses": [
+    {
+      "question_id": "q1",
+      "question_text": "Describe your leadership qualities",
+      "response_text": "I believe I am a good leader because I always try to set a positive example for my team. I've organized several group activities in college and made sure everyone's voice was heard.",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5796449780464172
+      },
+      "immediate_feedback": "I appreciate your self-reflection and conviction, commendable qualities in a leader. One key strength in your response is your commitment to inclusivity and making space for everyone to speak their mind, which is vital in team dynamics. \n\nTo enhance your response and highlight a specific area of improvement, I would suggest discussing a specific example of a time you successfully inspired others through your actions, demonstrating your leadership and influence. Remember, the SSB wants to see how your traits translate into impactful, actionable behaviors. \n\nYou seem to have a good understanding of leadership, ensure you highlight these moments to give the board a fuller picture of your leadership capabilities. Do consider incorporating specific anecdotes or scenarios that better illustrate your leadership qualities.",
+      "timestamp": "2025-04-02T21:59:11.764511"
+    },
+    {
+      "question_id": "q2",
+      "question_text": "How do you handle stress in challenging situations?",
+      "response_text": "I handle stress by focusing on the task at hand and breaking it down into manageable steps. I also practice deep breathing and physical exercise to maintain my mental clarity.",
+      "sentiment": {
+        "label": "4 stars",
+        "score": 0.5519236326217651
+      },
+      "immediate_feedback": "Candidate, your response shows:\n\n1. Strength: A proactive and mindful approach to stress management is a great advantage. It shows that you recognize the impact of stress and take practical steps to mitigate it. \n\n2. Improvement: (even just 1 sentence): To strengthen your answer, I would suggest highlighting a specific instance or example when your stress management strategies helped you achieve a goal or overcome a challenge in the past. This will demonstrate the effectiveness of your approach and give more context to your answer. \n\nRemember, being able to manage stress is a valuable skill, and recognizing the need to practice self-care is important for success in many areas of life. \n\nI hope that helps, encourage candidates to ask any follow-ups",
+      "timestamp": "2025-04-02T21:59:29.895164"
+    }
+  ]
+}

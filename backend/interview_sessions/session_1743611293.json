@@ -1,0 +1,28 @@
+{
+  "session_id": "session_1743611293",
+  "start_time": "2025-04-02T21:58:34.697828",
+  "responses": [
+    {
+      "question_id": "q1",
+      "question_text": "Describe your leadership qualities",
+      "response_text": "I believe I am a good leader because I always try to set a positive example for my team. I've organized several group activities in college and made sure everyone's voice was heard.",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5796449780464172
+      },
+      "immediate_feedback": "This candidate has demonstrated their leadership abilities and willingness to engage in team building activities. Their explanation of organizing inclusive group activities in college is a strong testament to their leadership potential. \n\nOne specific improvement could be to provide a concise example of a time they had a positive impact on a team's performance due to the inclusive team culture they fostered. This would help amplify their disposition for fostering inclusive teams who thrive under their leadership. \n\nOverall, their positive attitude and proactive leadership aspirations are promising for today's modern and diverse workforce!",
+      "timestamp": "2025-04-02T21:58:34.698817"
+    },
+    {
+      "question_id": "q1",
+      "question_text": "Describe your leadership qualities",
+      "response_text": "I believe I am a good leader because I always try to set a positive example for my team. I've organized several group activities in college and made sure everyone's voice was heard.",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5796449780464172
+      },
+      "immediate_feedback": "I appreciate your confidence in your leadership abilities and the steps you take to foster inclusive teamwork. \n\nTo further enhance your response delivery: revert to a specific example of a complex issue or obstacle you navigated during these group activities. This showcases your critical thinking and problem-solving skills in action, which can demonstrate the added dimension of your exceptional leadership. \n\nKeep up the great confidence in showcasing your leadership potential!",
+      "timestamp": "2025-04-02T21:58:42.069252"
+    }
+  ]
+}

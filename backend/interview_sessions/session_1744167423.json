@@ -1,0 +1,17 @@
+{
+  "session_id": "session_1744167423",
+  "start_time": "2025-04-09T08:27:51.870307",
+  "responses": [
+    {
+      "question_id": "1",
+      "question_text": "Tell me about yourself.",
+      "response_text": "hello my name is Rahul and I am at SSB  I am actually  you are my new",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.7280147075653076
+      },
+      "immediate_feedback": "Hello Rahul, this is a good start, however the content of your response does not exhibit much clarity.",
+      "timestamp": "2025-04-09T08:27:51.871820"
+    }
+  ]
+}

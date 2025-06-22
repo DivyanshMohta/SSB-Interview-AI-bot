@@ -1,0 +1,28 @@
+{
+  "session_id": "session_1744622451",
+  "start_time": "2025-04-14T14:51:09.181904",
+  "responses": [
+    {
+      "question_id": "4",
+      "question_text": "Describe a challenging situation and how you handled it.",
+      "response_text": "hello hello hello hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5090811848640442
+      },
+      "immediate_feedback": "Your enthusiastic greeting showcases your demeanor which is well suited for customer service oriented roles.",
+      "timestamp": "2025-04-14T14:51:09.182902"
+    },
+    {
+      "question_id": "4",
+      "question_text": "Describe a challenging situation and how you handled it.",
+      "response_text": "hello hello hello hello main Tumhara  main Tumhara  main Tumhara  50 bhai dekh raha hai  dekh raha hai",
+      "sentiment": {
+        "label": "1 star",
+        "score": 0.4511851668357849
+      },
+      "immediate_feedback": "The candidate's response would likely not greatly impress officers on an SSB panel.",
+      "timestamp": "2025-04-14T14:51:44.671685"
+    }
+  ]
+}

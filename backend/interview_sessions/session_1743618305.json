@@ -1,0 +1,61 @@
+{
+  "session_id": "session_1743618305",
+  "start_time": "2025-04-02T23:58:50.918726",
+  "responses": [
+    {
+      "question_id": "5",
+      "question_text": "Where do you see yourself in 5 years?",
+      "response_text": "I would  be high next SSB interview",
+      "sentiment": {
+        "label": "3 stars",
+        "score": 0.34442272782325745
+      },
+      "immediate_feedback": "\"This statement is neutral. To better prepare for the SSB interview, you should research the types of questions that will be asked, and practice answering them briefly and succinctly.",
+      "timestamp": "2025-04-02T23:58:50.919736"
+    },
+    {
+      "question_id": "10",
+      "question_text": "Why should we select you?",
+      "response_text": "you should select me as  dedication toward the country  seromy nation is",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.39153581857681274
+      },
+      "immediate_feedback": "Your enthusiasm and dedication to serve the country is commendable. The military is always in need of such individuals who display a keen desire to contribute to the nation's welfare.",
+      "timestamp": "2025-04-02T23:59:34.474302"
+    },
+    {
+      "question_id": "8",
+      "question_text": "What is your greatest achievement?",
+      "response_text": "no great achievements",
+      "sentiment": {
+        "label": "2 stars",
+        "score": 0.5310732126235962
+      },
+      "immediate_feedback": "Your response suggests that you may not have undertaken rigorous preparation for the military officer role. Achieving excellence requires humility and perseverance in striving to accomplish great things.",
+      "timestamp": "2025-04-02T23:59:47.273752"
+    },
+    {
+      "question_id": "4",
+      "question_text": "Describe a challenging situation and how you handled it.",
+      "response_text": "no I cannot  have not handled challenge yet",
+      "sentiment": {
+        "label": "1 star",
+        "score": 0.5026763081550598
+      },
+      "immediate_feedback": "Your response suggests that you are yet to face this particular challenge in your career.",
+      "timestamp": "2025-04-03T00:00:06.468105"
+    },
+    {
+      "question_id": "3",
+      "question_text": "What are your strengths and weaknesses?",
+      "response_text": "I have that punctuality and  dedication towards my work and also weakness that is procasting",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.23966673016548157
+      },
+      "immediate_feedback": "This candidate highlights their strengths as being punctual and dedicated, which is certainly a positive trait in the workplace. However, the comment on their weakness, \"procasting\", is unclear and might be interpreted as a spelling mistake.",
+      "timestamp": "2025-04-03T00:00:28.359920"
+    }
+  ]
+}

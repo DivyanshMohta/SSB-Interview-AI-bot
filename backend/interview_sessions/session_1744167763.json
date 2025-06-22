@@ -1,0 +1,61 @@
+{
+  "session_id": "session_1744167763",
+  "start_time": "2025-04-09T08:33:02.831826",
+  "responses": [
+    {
+      "question_id": "6",
+      "question_text": "What qualities make a good leader?",
+      "response_text": "good leader is a good leader and must be a team member first then a guide to the team",
+      "sentiment": {
+        "label": "4 stars",
+        "score": 0.5742766857147217
+      },
+      "immediate_feedback": "Your response indicates an understanding of the importance of leadership and teamwork. This is definitely a valuable perspective for aspiring military officers, as leadership and teamwork are highly valued traits in military training and missions.",
+      "timestamp": "2025-04-09T08:33:02.832828"
+    },
+    {
+      "question_id": "7",
+      "question_text": "How do you handle stress and pressure?",
+      "response_text": "I can 100 station pressure very well as a been through a B.Tech degree  collect student go under various pressure and stret condition ing and teachers Dem to Hyderabad",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.4889476001262665
+      },
+      "immediate_feedback": "Your ability to handle pressure is a valuable trait, as it is often necessary for success on the job. Your educational background has helped you develop strong technical knowledge, which is an asset for many military roles.",
+      "timestamp": "2025-04-09T08:33:31.441830"
+    },
+    {
+      "question_id": "4",
+      "question_text": "Describe a challenging situation and how you handled it.",
+      "response_text": "no I have never handle with challenging situation and I was not capable enough to handle",
+      "sentiment": {
+        "label": "2 stars",
+        "score": 0.5048544406890869
+      },
+      "immediate_feedback": "It's understandable to not have faced every possible challenge in life, but it's also important to show that you've learned from past experiences and how you've dealt with them.",
+      "timestamp": "2025-04-09T08:33:49.952460"
+    },
+    {
+      "question_id": "8",
+      "question_text": "What is your greatest achievement?",
+      "response_text": "achievement is my B.Tech degree",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5186553597450256
+      },
+      "immediate_feedback": "Your pride in your educational achievement is commendable.",
+      "timestamp": "2025-04-09T08:34:05.893912"
+    },
+    {
+      "question_id": "9",
+      "question_text": "How do you work in a team?",
+      "response_text": "I work in team  a good team member helping other and also doing my photo Japan for asking help him I need them",
+      "sentiment": {
+        "label": "4 stars",
+        "score": 0.5370982885360718
+      },
+      "immediate_feedback": "Your response indicates that you are a strong team player who is willing to both provide and ask for help when needed. This is valuable for a military officer who must coordinate with others in their command.",
+      "timestamp": "2025-04-09T08:34:34.115561"
+    }
+  ]
+}

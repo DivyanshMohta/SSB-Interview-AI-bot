@@ -1,0 +1,28 @@
+{
+  "session_id": "session_1744167608",
+  "start_time": "2025-04-09T08:30:38.545649",
+  "responses": [
+    {
+      "question_id": "10",
+      "question_text": "Why should we select you?",
+      "response_text": "select may because  I am passionate about my career we want clear SSB to make other  help them in clearing their",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.3329535126686096
+      },
+      "immediate_feedback": "Your passion for a clear SSB and desire to help others is commendable. However, the lack of specifics and relevant details about your motivation to join the military as a officer makes it difficult to fully evaluate your interest.",
+      "timestamp": "2025-04-09T08:30:38.547179"
+    },
+    {
+      "question_id": "6",
+      "question_text": "What qualities make a good leader?",
+      "response_text": "hello hello leader must be a first number 15  being able to help others in their need and not just  ordering them things",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.6318866610527039
+      },
+      "immediate_feedback": "Your response indicates that you possess a strong understanding of leadership, emphasizing the importance of helping others and emphasizing the value of guidance over mere instruction.",
+      "timestamp": "2025-04-09T08:32:52.481173"
+    }
+  ]
+}

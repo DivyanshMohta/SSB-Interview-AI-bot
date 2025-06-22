@@ -1,0 +1,39 @@
+{
+  "session_id": "session_1744644296",
+  "start_time": "2025-04-14T20:55:14.125472",
+  "responses": [
+    {
+      "question_id": "5",
+      "question_text": "Where do you see yourself in 5 years?",
+      "response_text": "hello  I don't see myself anywhere in next 5 years",
+      "sentiment": {
+        "label": "1 star",
+        "score": 0.5667804479598999
+      },
+      "immediate_feedback": "This candidate has seemingly aspirations for rapid advancement and a willingness to take risks.",
+      "timestamp": "2025-04-14T20:55:14.128000"
+    },
+    {
+      "question_id": "4",
+      "question_text": "Describe a challenging situation and how you handled it.",
+      "response_text": "submit nahin kiya to please",
+      "sentiment": {
+        "label": "3 stars",
+        "score": 0.27351534366607666
+      },
+      "immediate_feedback": "Your response suggests some familiarity with the importance of submitting necessary materials.",
+      "timestamp": "2025-04-14T20:56:19.139859"
+    },
+    {
+      "question_id": "7",
+      "question_text": "How do you handle stress and pressure?",
+      "response_text": "hello I can't understand pressure",
+      "sentiment": {
+        "label": "1 star",
+        "score": 0.3601110875606537
+      },
+      "immediate_feedback": "Your response mentions the phrase 'I can't understand pressure', which may suggest an inability to handle pressure. Ensure that you have concrete examples of how you've handled pressure in the past, as it is an integral part of any leadership role.",
+      "timestamp": "2025-04-14T20:56:37.860662"
+    }
+  ]
+}

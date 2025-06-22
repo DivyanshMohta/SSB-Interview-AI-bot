@@ -1,0 +1,17 @@
+{
+  "session_id": "session_1743616669",
+  "start_time": "2025-04-02T23:27:54.506846",
+  "responses": [
+    {
+      "question_id": "6",
+      "question_text": "What qualities make a good leader?",
+      "response_text": "hello",
+      "sentiment": {
+        "label": "5 stars",
+        "score": 0.5614452958106995
+      },
+      "immediate_feedback": "Your response is too short for meaningful feedback. Please provide a more detailed answer.",
+      "timestamp": "2025-04-02T23:27:54.506846"
+    }
+  ]
+}
